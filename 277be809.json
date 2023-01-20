@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "The intoxicating fragrance of Cleopatra's vessel is conveyed through gilded incense burners, roses, and petals strewn about the ship.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "http://zoomviewer.toolforge.org/iipsrv.fcgi/?iiif=cache/bdb890febe67e733cdc91f28d3d7a437.tif",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:36,1838.125,920,620"
+      },
+      "id": "277be809"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "da25c726"
+  }
+]
